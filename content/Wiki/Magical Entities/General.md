@@ -1,0 +1,4 @@
+- an Eldritch horror could be a good way to have something dangerous pulling the strings. Maybe they are pushing for the industrialization to create something that allows them immense control over the world and or it's destruction. Maybe the planet itself is magical in the sense that it could be used as a weapon or is somehow alive in some ways that could be utilized by the big bad
+- Eldritch horror(s) from space, alternate dimensions, and or ocean
+- how could God(s) tie into the dark age and the speeding towards industrialization. Could take elements of Harmony.(preservation and ruin at odds) (Knowing they are stunting growth)
+- reskin gods from 5e as needed for patrons and such for players

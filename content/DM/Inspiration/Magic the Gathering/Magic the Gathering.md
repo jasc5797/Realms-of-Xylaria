@@ -1,0 +1,2 @@
+- [[Shards of Alara]] is a great inspiration for disparate groups being forced together
+- [[Zendikar]] would be a cool back drop for one of the realms

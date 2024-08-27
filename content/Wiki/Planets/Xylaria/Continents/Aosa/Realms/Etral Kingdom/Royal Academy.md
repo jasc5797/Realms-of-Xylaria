@@ -1,0 +1,1 @@
+Magic academy funded by a stipend from the royal family. It was formed as a way to encourage the studying of magic within [[Etral Kingdom]]. Public lectures were held here initially however as years have gone by it has become prestigious school that is notorious for being difficult to get into. Now it practically serves a branch of the government for topics related to magic

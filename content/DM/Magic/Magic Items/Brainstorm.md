@@ -1,0 +1,2 @@
+- Have funny/useless magic items
+- perpetually potent penjamin

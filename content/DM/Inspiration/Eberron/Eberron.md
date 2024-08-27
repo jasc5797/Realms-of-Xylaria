@@ -1,0 +1,2 @@
+- Steampunk like Ebberon
+- Not as wartorn as Ebberon at least not at the surface. Even still having crazy time bombs and other dangerous magical phenomenon would be fun and could explain the dark ages and maybe eventual progression towards industrialization 

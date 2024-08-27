@@ -1,0 +1,1 @@
+- Rolend-esque gun slinger as an npc is a must

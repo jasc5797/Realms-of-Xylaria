@@ -1,0 +1,6 @@
+- Have an area where time moves slower the deeper you get
+- Have an [[Anti-magic City]]
+- Start on an island city that is close to shore, like Tar Valon
+- Take inspiration from Wheel of Time for use of magic as a tool and industrialization
+- Ogier like stone masons
+- Device like the car Rand sees

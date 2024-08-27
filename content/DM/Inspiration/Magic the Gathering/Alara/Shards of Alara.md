@@ -1,0 +1,1 @@
+- Shards of Alara shows a Plane being separated along kingdom borders into different Shards. These Shards eventually reform, causing strife at the now reformed borders. This may serve as good reference for [[The Convergence]]

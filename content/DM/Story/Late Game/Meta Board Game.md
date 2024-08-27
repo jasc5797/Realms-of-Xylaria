@@ -1,0 +1,1 @@
+- late game meta ish side plot to use my mini. Make this an example of the whacky dimension shifting effects of old magic scarring the world. Maybe trapped in a board game?

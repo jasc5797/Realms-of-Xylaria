@@ -1,0 +1,12 @@
+- Start small. Plan only the city and surrounding area. You can plan large parts like foreign kingdoms and their relations, but don't info dump this. Only have this in case of questions from the player and to have something to move towards plot wise
+- also start on a standalone continent to leave a large world available. Not sure how interconnected it should be
+- lots of hints to future events. Not apparent at the time though. More like interacting with characters and not realizing they are important or have been pulling the strings for a while. Some connection from beginning to end. Maybe something investigated early on comes back and becomes very important later
+- start at (at least ) level 5
+- can reskin anything from base DND 5e but emphasize that custom magic items is a viable route and encouraged
+- give a lot of cool and maybe not as balanced items to party and enemies. Rule of cool over balance 
+- ask players for basics. Aspirations. How rough the up bringing, how travelled, etc... pad out each players backstory as needed for world building and to provide additional background information for each character. 
+- Probably have the party already investigating something at the start of the campaign as a pre established party. This could explain starting at something like level 5. They've already had a few levels of experience working together. Some how make them already established and not complete nobodies 
+- music and mood are important 
+- time critical events. Sometimes they will have to choose one way or the other
+- plan a beginning and an end so they can have some kind of connection, but understand delivering on big campaign will take time and be hard to flush out. Basically have beginning and end and some fun dots along the way that may or may not be hit.
+- maybe make the bridge out of the city blocked initially. Maybe some big event or terrorist attack of sorts has limited travel in and out of the city. Trade must go on however. The players can use this to their advantage

@@ -1,0 +1,2 @@
+- Take inspiration from Roshar/Mistborn Era 2/and space age Cosmere for use of magic as a tool and industrialization
+- Yumi and the nightmare painter trying to branch outside of their world. I'm thinking of a project to extend leylines outside of [[Trisfir Kingdom]] as a plot point. Slow learning about the magic that brought all of the realms together 

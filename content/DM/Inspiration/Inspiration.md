@@ -1,0 +1,3 @@
+- could also take ideas from Myst and maybe dark Tower and dark souls (cycles/ages/repetition and fading?) and full metal alchemist  and Shards of Alara/obduction (different planes/worlds mashed together)
+- like obduction the places of origin of each displaced people was destroyed shortly after they were taken. Either something is collecting/saving them from doom or that something is also causing that doom
+- black mirror/Twilight zone/monkey paw magic and industrialization of magic 

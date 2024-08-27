@@ -1,0 +1,1 @@
+- airships like multi ballooned zeppelin (first ever? Big news?). Maybe this is a hook for another continent. Something like there has been little to no contact from other continents. So this would be a large expanding of the world. Use Spelljammer ships

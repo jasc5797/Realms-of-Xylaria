@@ -1,0 +1,2 @@
+
+- Illithid presence - for the custom magic item. If this world is a smattering of other worlds melded together than it would perfectly explain how a Illithid tadpole could grow unhindered by an elder brain. This would explain the [[Bands of Mourning]] from the https://forgottenrealms.fandom.com/wiki/Neothelid

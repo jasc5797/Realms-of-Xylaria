@@ -1,0 +1,7 @@
+- arcane runes and symbols are fun! Throw them around. Maybe especially on old magic stuff 
+-  patterns are important for making the magic have a better pay off but it doesn't have to necessarily be super hard magic
+- distinction between new and old magic artifacts 
+- already using magic as a source of jobs and industry 
+-  message through wall for secret meetings
+- one way mirror may prevent someone from messaging back in the future
+- 
