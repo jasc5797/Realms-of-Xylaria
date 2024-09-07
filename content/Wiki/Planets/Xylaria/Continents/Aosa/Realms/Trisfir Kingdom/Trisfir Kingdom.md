@@ -20,7 +20,11 @@ It is not unusual to see the likes of [[Rak'dynian Thri-kreen]] and [[Tinker Gno
 The [[Trisfir Kingdom]] is heavily steeped in druidic and tribal influences with strong ties to nature. They seek to strike a balance of nature with their modern amenities that magical advancements have provided.
 ## Government
 
-Initially a disparate group of warring clans, now the [[Clans of Trisfir]] are unified under a constitutional monarchy.
+The [[Trisfir Kingdom]] is ruled over by a constitutional monarchy, comprising of a royal family, headed by [[Asina Trisfir]], and a council representing the [[Clans of Trisfir]] as well as other groups of major influence, like trade guilds and merchants.
+
+The [[Clans of Trisfir]] control the most power among the council, but do not necessarily always have aligning interests. Initially the clans were the only ones allowed on the council, but within the past 100 years or so, they have elected to allow influential guilds and merchant groups to have seats on the council. The [[Clans of Trisfir]] each have ties to different industries, but the guilds and the merchant halls represent the interest of the common people in their respective fields. 
+
+Each of the clans controls a domain within the bounds of the [[Trisfir Kingdom]].
 
 ---
 # Magic

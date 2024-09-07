@@ -12,7 +12,7 @@ date: 2024-09-01
 # Locations
 ## City
 
-The city sprawl encompasses the roughly 10 mile diameter of the top side of the stump. Much of the inside of the stump has been hollowed out to be used for additional space within the city as well. Through natural processes and careful cultivate local flora and fauna have been incorporated directly into the city architecture. This provides a stunning contrast between the greenery and stone carved buildings of all shapes and sizes throughout the city. The keep of the [[Royal House]] is situated at the highest peak of the edge of the stump facing the open ocean. It is mostly comprised of multiple spires carved to look covered in vine, and like most of the city mixes much greenery within the architecture. 
+The city sprawl encompasses the roughly 10 mile diameter of the top side of the stump. Much of the inside of the stump has been hollowed out to be used for additional space within the city as well. Through natural processes and careful cultivate local flora and fauna have been incorporated directly into the city architecture. This provides a stunning contrast between the greenery and stone carved buildings of all shapes and sizes throughout the city. The palace of [[Clan Trisfir]] is situated at the highest peak of the edge of the stump facing the open ocean. It is mostly comprised of multiple spires carved to look covered in vine, and like most of the city mixes much greenery within the architecture. 
 
 ## Outpost
 

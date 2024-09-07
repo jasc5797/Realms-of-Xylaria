@@ -1,4 +1,4 @@
 ---
-title: Wiki
+title: Cities
 date: 2024-09-07
 ---
