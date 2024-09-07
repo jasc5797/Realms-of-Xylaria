@@ -1,3 +1,9 @@
+---
+tags:
+  - shop
+date: 2024-09-01
+draft: "true"
+---
 
 # Description
 
@@ -8,7 +14,7 @@ Upon entering, customers are greeted by the rhythmic clang of a hammer striking 
 At the center of the shop stands [[Chak-tha]], a tall and imposing Thri-kreen with four strong arms, each equipped with tools of the trade. His chitinous exoskeleton reflects the light of the forge, while his compound eyes observe customers with an analytical focus. [[Chak-tha]]’s primary tool, a large hammer inscribed with powerful runes, rests by his side, ready to imbue items with magical properties.
 
 
-- [[Chak-tha]], like many [[Thri-kreen]] from the [[Kut'al Conclave]], is rather stoic
+- [[Chak-tha]], like many [[Rak'dynian Thri-kreen]] from the [[Kut'al Conclave]], is rather stoic
 - [[Chak-tha]] can make custom enchanted items at a marked up cost
 - [[Chak-tha]] can also enchant existing magical items, however this process is much harder and comes with a heavy cost
 ## Items on Display

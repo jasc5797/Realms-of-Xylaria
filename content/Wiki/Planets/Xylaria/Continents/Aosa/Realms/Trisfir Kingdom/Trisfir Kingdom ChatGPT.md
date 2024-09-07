@@ -1,3 +1,9 @@
+---
+draft: "true"
+date: 2024-09-01
+---
+
+
 Expanding on the alliances between the **[[Trisfir Kingdom]]** and its neighboring realms can add depth to your campaign setting and provide intriguing plot hooks for your players. With the steampunk-inspired backdrop where magic intertwines with technology, these alliances can drive technological advancement and offer unique benefits to each party involved.
 
 Here are some detailed ideas for alliances and the magical technologies they may share:

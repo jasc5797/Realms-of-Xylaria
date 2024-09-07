@@ -1,3 +1,9 @@
+---
+draft: "true"
+date: 2024-09-01
+---
+
+
 Creating a richly diverse and coherent world with such a unique premise offers a fantastic opportunity to explore varied cultural, architectural, and environmental storytelling. Here's a detailed guide on how to convey this diversity and the interactions between different regions through architecture, world-building, and biomes:
 
 ### Architectural Perspective

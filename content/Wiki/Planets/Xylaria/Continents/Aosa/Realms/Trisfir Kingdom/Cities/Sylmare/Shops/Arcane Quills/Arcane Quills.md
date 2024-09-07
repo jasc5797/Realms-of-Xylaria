@@ -1,3 +1,9 @@
+---
+tags:
+  - shop
+date: 2024-09-01
+draft: "true"
+---
 ## [[Arcane Quills]]
 
 **Type:** Spellbook/Scroll Shop  

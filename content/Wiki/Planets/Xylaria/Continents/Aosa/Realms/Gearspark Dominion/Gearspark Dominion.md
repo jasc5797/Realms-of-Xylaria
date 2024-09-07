@@ -1,4 +1,9 @@
-#realm 
+---
+tags:
+  - realm
+date: 2024-08-31
+---
+
 # Introduction
 
 The [[Gearspark Dominion]] is a completely [[Tinker Gnome]] inhabited kingdom originally from the planet [[Cognair Prime]].
@@ -31,8 +36,10 @@ They are also well known for their ability to manufacture mechanical simulacrum 
 ---
 # Diplomatic Relations
 ## Allies
-
+- [[Kut'al Conclave]]
+- [[Trisfir Kingdom]]
 ## Enemies
+- [[Etral Kingdom]]
 
 ---
 # Geography and Ecology

@@ -1,4 +1,10 @@
-#random_generator #tool
+---
+tags:
+  - random-generator
+  - resource
+  - tool
+date: 2024-08-31
+---
 
 # Random Generators
 

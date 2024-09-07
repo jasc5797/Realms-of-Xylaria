@@ -1,3 +1,9 @@
+---
+draft: "true"
+date: 2024-09-01
+---
+
+
 Certainly! Creating a detailed governance structure for your elven kingdom will add layers of intrigue, realism, and role-playing opportunities for your D&D campaign. Below is an elaboration of how governance might function in a kingdom ruled by elves, with a focus on balancing the power between the royal family and the coalition of noble houses.
 
 ### Governance Structure of the Elven Kingdom

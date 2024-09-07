@@ -1,3 +1,9 @@
+---
+draft: "true"
+date: 2024-09-01
+---
+
+
 Incorporating elements of the Tinker Gnomes from the **Spelljammer** sourcebook into your D&D campaign can add a fun and whimsical touch to the gnome culture in Xylaria. Tinker Gnomes are known for their eccentric personalities and inventive minds, and their names often reflect this playful nature.
 
 Here's a list of people and place names that fit the **Tinker Gnome** theme:

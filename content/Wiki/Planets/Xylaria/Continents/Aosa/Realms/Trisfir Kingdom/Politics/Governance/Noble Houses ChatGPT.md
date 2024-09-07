@@ -1,3 +1,9 @@
+---
+draft: "true"
+date: 2024-09-01
+---
+
+
 Creating noble house names that convey the grandeur and significance of an elven kingdom can enhance the depth and immersion of your D&D campaign. Here are some suggestions for how to augment the name "Tanithil" and additional noble house names with titles or phrases that reflect their noble status. I'll also provide ideas for mottos or insignia to further enrich these houses.
 
 ### Noble House of Tanithil

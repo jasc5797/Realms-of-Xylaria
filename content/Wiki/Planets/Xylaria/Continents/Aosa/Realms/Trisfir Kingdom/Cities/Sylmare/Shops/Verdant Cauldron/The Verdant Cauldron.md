@@ -1,3 +1,11 @@
+---
+tags:
+  - shop
+date: 2024-09-01
+draft: "true"
+---
+
+
 **Type:** Alchemic Shop  
 **Owner:** [[Elowen Mossweaver]] (Elvish Druid)  
 **Location:** Merchant District, [[Sylmare]]

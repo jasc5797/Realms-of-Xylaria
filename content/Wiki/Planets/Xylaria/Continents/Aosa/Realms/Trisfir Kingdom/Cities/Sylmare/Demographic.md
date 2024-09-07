@@ -1,1 +1,0 @@
-- the starting city is of mixed races due to it being a major trading port but other areas can be dominated by one race or a small mix of similar races

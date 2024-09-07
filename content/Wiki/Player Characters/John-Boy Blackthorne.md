@@ -1,4 +1,8 @@
-#player_character
+---
+tags:
+  - player-character
+date: 2024-08-31
+---
 # Character Sheet
 
 [John-Boy Blackthorne](https://www.dndbeyond.com/characters/130289163) - Human - Rogue 5 - Soulknife ^character-sheet
@@ -25,20 +29,13 @@ Despite his grim appearance, John-boy has a silver tongue and a roguish charm. H
 
 John-boy Blackthorn was born the son of a tavern maid and an unknown father. As he grew up on the rough outskirts of a working town, John-boy learned that the world was not kind to the weak. He became adept at surviving by any means necessary, turning to thievery and eventually becoming a notorious highwayman. His life of crime was marked by daring heists and narrow escapes, and he soon earned a reputation as both a gentleman thief and a ruthless bandit. One fateful night, John-boy ambushed a strange traveler with a chest of rare artifacts. Among the treasures was an ancient, cursed blade that whispered to him as he drew it from its sheath. The voice in the sword promised power and protection in exchange for his soul. Desperate to escape the gallows and continue his life of freedom, John-boy took the bargain. Now, John-boy roams the world as a man out of time, haunted by the choices he made. The blade has extended his life far beyond a normal human's, allowing him to cheat death more times than he can remember. But with each rebirth, the curse tightens its grip, and John-boy knows that one day his debt will come due. ^early-life
 
-## Meeting [[Gnutz Snatcher]]
-TBD
+## Arrival in [[Sylmare]]
 
-## Meeting [[Edwin Ravenswood]] and [[Miera Ashglade]]
+
+## Meeting [[Edwin Ravenswood]], [[Gnutz Snatcher]], and [[Miera Ashglade]]
 
 ![[Edwin Ravenswood#^meeting-gnutz-snatcher-and-john-boy-blackthorne]]
 
----
-# Notes
-## To Be Determined
-
- - Name and details of magical item
- - [[John-Boy Blackthorne]] should meet [[Gnutz Snatcher]] sometime before or after arriving in [[Sylmare]]. Maybe they both work for the [[Veilbound Syndicate]]. Either way they should both have a reason to infiltrate one of the [[Clans of Trisfir]], and they eventually find work with [[Clan Tanithil]] together
- - Where is he from initially? He could be from the [[Etral Kingdom]] which is would be the same kingdom as [[Edwin Ravenswood|Billy's]] and [[Miera Ashglade|Jared's]] characters are from
 
 
 

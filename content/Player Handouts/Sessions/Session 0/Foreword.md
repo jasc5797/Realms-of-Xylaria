@@ -1,3 +1,8 @@
+---
+tags:
+  - player-handout
+date: 2024-08-31
+---
 # Welcome to the [[Realms of Xylaria]]!
 
 This is a homebrew campaign I've cooked up with some ideas I've been tooling around with, as well as heavy doses of inspiration (*cough* *cough* stealing) from other sources. I'm excited to try my hand at running a full homebrew campaign for you all now that I have some actual DM experience under my belt! With that in mind, please bear with me while we figure this new campaign out.
@@ -89,7 +94,7 @@ The [[Aosa]] is a vast expanse of land where diverse civilizations, each with it
 
 The **[[Trisfir Kingdom]]** is a beacon of progress on the [[Aosa]]. Known for its technological advancements and cultural diversity, the kingdom has become a hub of commerce and diplomacy. Its strategic alliances and strong economy make it a formidable force, and its influence extends across the continent. On top of this, powerful ley lines cross this realm providing an abundance of magical energy across the land.
 
-Over the years, the [[Trisfir Kingdom]] has cultivated alliances with some of its bordering realms. Most notably, the [[Kut'al Conclave]], inhabited by [[Thri-kreen]], and the [[Gearspark Dominion]], inhabited by [[Tinker Gnome|Tinker Gnomes]]. These realms have come together and begun to rapidly increase their power within [[Aosa]] through the combination of each realms' magical properties and abilities. The [[Kut'al Conclave]] provides large crystals that can be imbued with the magical energy of each of the realms and then be used as a power source for magical abilities and effects. The [[Trisfir Kingdom]] is one of the most magically imbued realms within [[Aosa]], which allows for rapid charging of the [[Kut'al Conclave]]'s crystals when within the [[Trisfir Kingdom]]. The charging is especially quick when close to the ley lines of the realm. On top of this the magical energy from the [[Trisfir Kingdom]] acts as a stable and potent power source. Finally, this is combined with the artifician abilities of the [[Gearspark Dominion]] to create sometimes wonderous and sometimes dubious magical artifacts and constructs.
+Over the years, the [[Trisfir Kingdom]] has cultivated alliances with some of its bordering realms. Most notably, the [[Kut'al Conclave]], inhabited by [[Rak'dynian Thri-kreen]], and the [[Gearspark Dominion]], inhabited by [[Tinker Gnome|Tinker Gnomes]]. These realms have come together and begun to rapidly increase their power within [[Aosa]] through the combination of each realms' magical properties and abilities. The [[Kut'al Conclave]] provides large crystals that can be imbued with the magical energy of each of the realms and then be used as a power source for magical abilities and effects. The [[Trisfir Kingdom]] is one of the most magically imbued realms within [[Aosa]], which allows for rapid charging of the [[Kut'al Conclave]]'s crystals when within the [[Trisfir Kingdom]]. The charging is especially quick when close to the ley lines of the realm. On top of this the magical energy from the [[Trisfir Kingdom]] acts as a stable and potent power source. Finally, this is combined with the artifician abilities of the [[Gearspark Dominion]] to create sometimes wonderous and sometimes dubious magical artifacts and constructs.
 
 ### About [[Sylmare]]
 

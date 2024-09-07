@@ -1,22 +1,26 @@
-#realm
+---
+tags:
+  - realm
+date: 2024-09-01
+---
 # Introduction
 
-The [[Trisfir Kingdom]] is a predominantly [[Elf|Elven]] kingdom that was originally from the planet [[Exa]]. This realm is renowned for its mild climate, leading to bountiful harvests and vast trade opportunities. On top of this, its rapid technological progression over the past few hundred years has lead it to becoming one of the most powerful realms on the continent of [[Aosa]]. 
+The [[Trisfir Kingdom]] is a predominantly [[Exan Elf|Elven]] kingdom that was originally from the planet [[Exa]]. This realm is renowned for its mild climate, leading to bountiful harvests and vast trade opportunities. On top of this, its rapid technological progression with help from its allies over the past few hundred years has lead it to becoming one of the most powerful realms on the continent of [[Aosa]]. 
 
 ---
 # Culture and Society
 
 ## Demographic
 
-The current day [[Trisfir Kingdom]] is predominately inhabited by elves, but pockets of other races do exist within its borders. Prior to [[The Convergence]] the [[Trisfir Kingdom]] was from the planet [[Exa]]. At the time [[Exa]] was comprised of many different races such as elves, humans, dwarves, gnomes, halflings, tieflings, orcs, goblins, etc. However, during its time on [[Exa]] the [[Trisfir Kingdom]] kept tight borders, and allowed few of other races to enter. Due to this, [[The Convergence]] resulted in the majority of the populace of the [[Trisfir Kingdom]] to be of elven descent. Although some enclaves of other races can still be found here even today, their ancestors having happened to be within the [[Trisfir Kingdom]]'s bounds during [[The Convergence]].
+The current day [[Trisfir Kingdom]] is predominately inhabited by elves, but pockets of other races do exist within its borders. Prior to [[The Convergence]] the [[Trisfir Kingdom]] was from the planet [[Exa]]. At the time [[Exa]] was comprised of many different races such as elves, humans, dwarves, gnomes, halflings, tieflings, orcs, goblins, hobgoblins, etc. However, during its time on [[Exa]] the [[Trisfir Kingdom]] kept tight borders, and allowed few of other races to enter. Due to this, [[The Convergence]] resulted in the majority of the populace of the [[Trisfir Kingdom]] to be of elven descent. Although some enclaves of other races can still be found here even today, their ancestors having happened to be within the [[Trisfir Kingdom]]'s bounds during [[The Convergence]].
 
-It is not unusual to see the likes of [[Thri-kreen]] and [[Tinker Gnome|Tinker Gnomes]] within the [[Trisfir Kingdom]] as well. These races having traveled from the realms of the [[Trisfir Kingdom]]'s allies: the [[Kut'al Conclave]] and the [[Gearspark Dominion]] respectively. Although few, the [[Thri-kreen]] are more prominent in the rural areas of the [[Trisfir Kingdom]]. Here they enjoy the nature and simpler lifestyle these areas provide. On the other hand the [[Tinker Gnome|Tinker Gnomes]] and their creations, the [[Autognome|Autognomes]] are known to congregate in the larger, more developed cities of the [[Trisfir Kingdom]], such as [[Sylmare]]. These places provide near endless amounts of work for the [[Tinker Gnome|Tinker Gnomes]] as they begin to progress into an industrial age.
+It is not unusual to see the likes of [[Rak'dynian Thri-kreen]] and [[Tinker Gnome|Tinker Gnomes]] within the [[Trisfir Kingdom]] as well. These races having traveled from the realms of the [[Trisfir Kingdom]]'s allies: the [[Kut'al Conclave]] and the [[Gearspark Dominion]] respectively. Although few, the [[Rak'dynian Thri-kreen]] are more prominent in the rural areas of the [[Trisfir Kingdom]]. Here they enjoy the nature and simpler lifestyle these areas provide. On the other hand the [[Tinker Gnome|Tinker Gnomes]] and their creations, the [[Autognome|Autognomes]] are known to congregate in the larger, more developed cities of the [[Trisfir Kingdom]], such as [[Sylmare]]. These places provide near endless amounts of work for the [[Tinker Gnome|Tinker Gnomes]] as they begin to progress into an industrial age.
 ## Culture
 
-The [[Trisfir Kingdom]] is heavily steeped in druidic and tribal influences with strong ties to nature. 
+The [[Trisfir Kingdom]] is heavily steeped in druidic and tribal influences with strong ties to nature. They seek to strike a balance of nature with their modern amenities that magical advancements have provided.
 ## Government
 
-Initially a disparate group of warring clans, now unified under a constitutional monarchy.
+Initially a disparate group of warring clans, now the [[Clans of Trisfir]] are unified under a constitutional monarchy.
 
 ---
 # Magic
@@ -39,8 +43,8 @@ On the planet [[Exa]] the land that would eventually become [[Trisfir Kingdom]] 
 ---
 # Diplomatic Relations
 ## Allies
-- [[Kut'al Conclave]]
 - [[Gearspark Dominion]]
+- [[Kut'al Conclave]]
 ## Enemies
 - [[Etral Kingdom]]
 
@@ -49,5 +53,5 @@ On the planet [[Exa]] the land that would eventually become [[Trisfir Kingdom]] 
 
 The [[Trisfir Kingdom]] is considered to be among the most hospitable of all the realms within [[Xylaria]]. It is well known for its naturally temperate climate and mild weather. Topographically the land of the [[Trisfir Kingdom]] is relatively smooth. While there are areas with hills and mountains, the land is relatively unmarred. These things have allowed [[Trisfir Kingdom]] to become an agricultural powerhouse on [[Aosa]].
 
-The immediate area around [[Sylmare]] is covered in dense forests of red wood trees with red foliage.
+The immediate area around [[Sylmare]] is covered in dense forests of red wood trees.
 

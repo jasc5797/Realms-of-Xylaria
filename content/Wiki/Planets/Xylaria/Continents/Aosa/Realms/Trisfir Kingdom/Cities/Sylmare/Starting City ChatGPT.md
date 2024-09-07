@@ -1,3 +1,10 @@
+---
+draft: "true"
+date: 2024-09-01
+---
+
+
+
 Here's a cleaned-up version of your description, with some additional details and structure to help bring the setting to life:
 
 ---

@@ -1,3 +1,10 @@
+---
+tags:
+  - shop
+date: 2024-09-01
+draft: "true"
+---
+
 # Wobblesprocket's Wonders
 
 **Location:** Merchant District, Sylmare

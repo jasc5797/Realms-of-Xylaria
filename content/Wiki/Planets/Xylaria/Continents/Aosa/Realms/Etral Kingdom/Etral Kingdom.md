@@ -1,12 +1,14 @@
-#realm 
+---
+tags:
+  - realm
+date: 2024-08-31
+---
+
 # Introduction
 
-Predominantly human kingdom. 
+The [[Etral Kingdom]] is a predominantly [[Iorian Human|Human]] kingdom originally from the planet [[Ioria]].
 
-Capital: Dronn
-Planet: [[Ioria]]
-
-
+Capital: [[Dronn]]
 
 
 ---

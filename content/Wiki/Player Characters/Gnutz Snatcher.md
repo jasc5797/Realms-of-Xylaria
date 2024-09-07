@@ -1,3 +1,8 @@
+---
+tags:
+  - player-character
+date: 2024-08-31
+---
 # Character Sheet
 
 [Gnutz Smasher](https://www.dndbeyond.com/characters/130279720) - Bugbear - Ranger 5 - Gloom Stalker ^character-sheet
@@ -22,25 +27,11 @@
 
 Alone and frightened, [[Gnutz Snatcher]] wandered for days until he was found by a shadowy figure - a powerful crime overlord of the [[Veilbound Syndicate]] with a keen eye for talent. Recognizing the potential in the young bugbear, the overlord took [[Gnutz Snatcher]] under their wing, training him in the art of thievery and survival. Under the overlord's tutelage, [[Gnutz Snatcher]] transformed from a scared child into a hardened criminal. He learned to pick locks, move silently, and blend into the shadows. His once innocent mind became sharp and calculating, as he mastered the gritty realities of the underworld. Over the years, [[Gnutz Snatcher]] has worked countless jobs for his overlord, from stealing priceless artifacts to infiltrating heavily guarded strongholds. While he has grown accustomed to his life of crime, the memories of his destroyed home and lost family never truly fade. A deep-seated anger and longing for revenge against elves and humans continues to burn within him, fueling his ambition and driving his actions. ^working-for-the-veilbound-syndicate
 
-## Meeting [[John-Boy Blackthorne]]
-TBD
-
 ## Arrival in [[Sylmare]]
 
 Eventually [[Gnutz Snatcher]] made his way to [[Sylmare]], the capital of the [[Trisfir Kingdom]], with orders from the overlord of the [[Veilbound Syndicate]] to infiltrate one of the [[Clans of Trisfir]]. ^arrival-in-sylmare
-## Meeting [[Edwin Ravenswood]] and [[Miera Ashglade]]
+## Meeting [[Edwin Ravenswood]], [[John-Boy Blackthorne]], and [[Miera Ashglade]]
 
 ![[Edwin Ravenswood#^meeting-gnutz-snatcher-and-john-boy-blackthorne]]
 
----
-# Notes
-## To Be Determined
 
-- [[Gnutz Snatcher]] is not initially aware the [[Clan Tanithil]] had a hand in the destruction of his childhood village
-- [[Gnutz Snatcher]] should meet [[John-Boy Blackthorne]] sometime before or after arriving in [[Sylmare]]. Maybe they both work for the [[Veilbound Syndicate]]. Either way they should both have a reason to infiltrate one of the [[Clans of Trisfir]], and they eventually find work with [[Clan Tanithil]] together
-## Potential Character Hooks
-
-- He could have a hidden talent for tracking or survival due to his upbringing in the woods
-- He might have a phobia of fire or open spaces due to the trauma of the village attack
-- A recurring dream or nightmare about the attack could haunt his sleep
-- A chance encounter with a survivor of the attack could stir old emotions and force him to confront his past

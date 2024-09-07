@@ -1,4 +1,9 @@
-#planet
+---
+tags:
+  - planet
+date: 2024-08-31
+---
+
 
 ## Introduction
 
@@ -10,5 +15,8 @@ Each of these new lands and there inhabitants all now had to compete on new boun
 
 Recently, within the past few hundred years, on the continent of [[Aosa]], the strife between nations has died down to levels were some of the displaced civilizations have began to work together and push into the future. Conflict is still always at the forefront of everyone's minds, but now things like industry and mercantile efforts are much more prospers then out right conquest most of the time. Specifically the [[Sylmare]] is a renowned trading port known around the whole continent. All of the major kingdoms of the [[Aosa]] are pushing the boundaries of the industrialization technology and warfare. This has lead to an abundance of new magical discoveries and the creation of magical items in mass throughout the continent.
 
-However, the people of the [[Aosa]] are not alone, as other civilizations on other continents have also been rapidly advancing. Someday they will appear and try to usurp the rich mercantile capitals of the [[Aosa]]
+# Religion
 
+Each realm comes with its own religions, but it is a mixed bag on whether their populaces still believe. Magics that are more closely tied to their gods described any further are described as being flat, clouded, or otherwise seeming like a simulacrum/lifeless/soulless in comparison to before [[The Convergence]].
+
+Barring extraneous circumstances magic tied to any religion works across all of the other realms as normal.

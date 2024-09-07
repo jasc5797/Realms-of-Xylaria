@@ -1,3 +1,10 @@
+---
+draft: "true"
+date: 2024-09-01
+---
+
+
+
 Revising the setting to position the destroyed side of the tree facing the mainland adds an intriguing visual and narrative element to the city. It creates an opportunity for strategic placement of city districts and additional storylines related to the tree's mysterious destruction. Here's a revised version incorporating these changes:
 
 ---

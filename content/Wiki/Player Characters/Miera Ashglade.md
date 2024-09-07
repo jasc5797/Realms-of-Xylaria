@@ -1,4 +1,9 @@
-#player_character
+---
+tags:
+  - player-character
+date: 2024-08-31
+---
+
 # Character Sheet
 [Miera Ashglade](https://www.dndbeyond.com/characters/129818141) - Human - Fighter 5 - Battle Master ^character-sheet
 
@@ -20,13 +25,3 @@
 ## Meeting [[Gnutz Snatcher]] and [[John-Boy Blackthorne]]
 
 ![[Edwin Ravenswood#^meeting-gnutz-snatcher-and-john-boy-blackthorne]]
-
----
-# Notes
-
-- Was trained by an instructor to use a rapier
-- She wanted to attend the [[Military Academy]] in [[Dronn]] however her parents used her tuition to fund the house for another year
-- Party girl
-- While in [[Dronn]] she spent much of her time and money on night fencing instructions, from veterans she found at local taverns. They were old blade masters that were notorious drunks and she would pay for her lessons by getting the drunk at the tavern. This prevented her from partying. Although she did learn how to shoot whiskey
-- 
-

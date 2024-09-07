@@ -1,3 +1,9 @@
+---
+draft: "true"
+date: 2024-09-01
+---
+
+
 Creating diverse guilds and groups within your elven kingdom adds layers of complexity and depth to the political landscape, especially if these entities have seats or influence on the Great Tribal Council. These groups can represent various races, trades, crafts, and interests, and they can introduce political intrigue and opportunities for alliances, conflicts, and role-playing within your campaign.
 
 Here are some detailed guilds and organizations that might hold power or sway over the Great Tribal Council, including those representing minority races in the kingdom:

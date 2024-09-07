@@ -1,8 +1,11 @@
-#random_generator
+---
+tags:
+  - tool
+  - resource
+date: 2024-08-31
+---
 
-- https://www.reddit.com/r/fantasywriters/comments/ycmkn/fantasy_naming_conventions/
 - http://rinkworks.com/namegen/
 - https://www.fantasynamegenerators.com/
 
-Orotia
-Itios
+

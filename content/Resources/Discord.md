@@ -1,1 +1,0 @@
-[Realms of Xylaria Server](https://discord.gg/JgsZXTm7)
