@@ -1,5 +1,7 @@
 ---
 date: 2024-09-01
+tags:
+  - noble-house-of-etral
 ---
 ![[Raven Coat Of Arms.jpg]]
 
