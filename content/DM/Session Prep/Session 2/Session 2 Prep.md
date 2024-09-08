@@ -141,13 +141,13 @@ Isvar Zunil would likely use both psychological pressure and magical methods to 
 
 See [[Getting acquainted with Isvar]] for more information on next steps for the party.
 
-## Return Home
-
 ## Warehouse
 
 
 Plan for infiltration of a [[Clan Tanithil]] warehouse. [Battle Map](https://www.reddit.com/r/dndmaps/comments/rv70f1/warehouse_31x18/)
 The party has been to this warehouse before so knows its layout
+
+See [[Infiltrating Clan Tanithil's Warehouse]] for more information.
 ### **1. Preparation and Reconnaissance**
 
 **Objective**: Gather information about the warehouse and its security.
@@ -207,3 +207,7 @@ This plan provides a structured approach for the party to in
 # Further investigation 
 
 Some hint or clue should be found during the warehouse infiltration, that details a secret rendezvous that is supposed to happen with the shadow group that evening. The party should be pressed for time on when the meeting occurs and should be tempted to spy on the rendezvous. However this is a trap, as the shadow group knows the warehouse was compromised, and/or the secret group has strong enemies for the party to fight. This should be tough fight where the city guards under [[Isvar Zunil]] could serve as a deus ex machina here as needed
+
+
+- [[Follow Up with Isvar]]
+- [[End of Session 2]]

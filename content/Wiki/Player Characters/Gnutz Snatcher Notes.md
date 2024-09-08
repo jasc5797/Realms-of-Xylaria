@@ -5,8 +5,8 @@ date: 2024-09-07
 
 ## To Be Determined
 
-- [[Gnutz Snatcher]] is not initially aware the [[Clan Tanithil]] had a hand in the destruction of his childhood village
-- [[Gnutz Snatcher]] should meet [[John-Boy Blackthorne]] sometime before or after arriving in [[Sylmare]]. Maybe they both work for the [[Veilbound Syndicate]]. Either way they should both have a reason to infiltrate one of the [[Clans of Trisfir]], and they eventually find work with [[Clan Tanithil]] together
+- [[Gnutz Snatcher]] is not initially aware the [[Clan Tanithil]] and [[Ozai]] the leader of the [[Veilbound Syndicate]] had a hand in the destruction of his childhood village
+- [[
 - a low level thug, not prolific but like maybe known in some crime circles from odd jobs and what not
 - I kind of wanted to name the dude ozai which gave me a brilliant twist idea
 - Ozai hinting that he's the fire lord, but the crime lord is the one that burnt down the village not the human and elf contingent. And he's been lying to gnutz the whole time
