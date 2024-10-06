@@ -9,4 +9,5 @@ date: 2024-09-07
 - [[Wiki/]]
 ---
 # Pages
+- [[Release Notes]]
 - [[Welcome to the Realms of Xylaria!]]

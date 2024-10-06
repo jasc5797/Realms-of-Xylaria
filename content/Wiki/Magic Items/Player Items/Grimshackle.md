@@ -3,9 +3,12 @@ tags:
   - magic-item
 date: 2024-08-31
 ---
+![[Grimshackle.png]]
+
+*[[Grimshackle.png|Grimshackle]]*
 # Attributes
 
-Weapon (Club), Rare (requires attunement by a Requires attunement)
+*Weapon (Club), Rare (requires attunement by a Requires attunement)*
 # Description
 
 - **Counsel of the Damned:** The knuckles constantly whisper to you, offering guidance, warnings, or threats. These whispers can grant advantage on Insight or Perception checks, but they can also be distracting, imposing disadvantage on Wisdom saving throws at the GM's discretion.

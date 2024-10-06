@@ -3,13 +3,16 @@ tags:
   - magic-item
 date: 2024-08-31
 ---
+![[OrbOfEternity.png]]
+
+*[[OrbOfEternity.png|Orb of Eternity]]*
 # Attributes
 
 Wand, Artifact (requires attunement by a Orb barely has weight, it rest gently on your palm. Giving off a faint blue glow, the orb is prepared for a long journey.)
 
 # Description
 
-The Orb of Eternity is crafted of glass and fine silver. The metallic embossing adds faint shadows to the low blue glow that emanates from its core.
+The Orb of Eternity is crafted of glass and fine silver. The metallic embossing adds faint shadows to the low blue glow that emanates from its core. 
 
 When taking physical damage roll a single d20. On a 15 or greater negate 1+ (Wizard Level). Then fill in charge slot.
 

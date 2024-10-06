@@ -1,0 +1,1 @@
+Spoiler safe alias for the [[Order of the Pale Hand]]

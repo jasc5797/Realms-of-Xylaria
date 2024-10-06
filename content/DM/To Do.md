@@ -1,0 +1,4 @@
+- Have Quartz start from a different directory so when this is loaded the vault name isn't "content"
+- Look into Trello replacement
+	- https://github.com/roovo/obsidian-card-board
+	- https://publish.obsidian.md/kanban/Obsidian+Kanban+Plugin

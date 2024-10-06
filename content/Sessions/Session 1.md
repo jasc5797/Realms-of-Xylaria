@@ -42,7 +42,7 @@ date: 2024-08-31
 
 ### [[John-Boy Blackthorne]]
 
-
+![[John-Boy Blackthorne#^arrival-in-sylmare]]
 
 ## [[Clan Tanithil]]
 
@@ -79,11 +79,22 @@ The party all gets up in their own time, and perform their morning routines. [[E
 
 When the party goes outside talk about the city streets architecture and the bustle of excited people on the streets. They live in an area that over looks a large portion of the city. The city is alive with people lining the streets for celebrations
 
-**Examples**
-- [[BigStump.jpg|Petrified Redwood Stump]]
-- [[Petrified Wood.jpg|Petrified Wood Colors Example]]
-- [[SylmareStumpExplosion.png|Example of the topography of Sylmare]]
+**Image References**
 
+![[BigStump.jpg]]
+
+*[[BigStump.jpg|Petrified Redwood Stump]]*
+*Here is a real life example of a petrified redwood stump. [[Sylmare]] is more preserved than this, having a more intact root network and outer bark layer. *
+
+![[PetrifiedWood.png]]
+
+*[[PetrifiedWood.png|Petrified Wood Colors Example]]*
+*This is an example of the colorations that the stone of [[Sylmare]] exhibits throughout the city.*
+
+![[SylmareStumpExplosion.png]]
+
+*[[SylmareStumpExplosion.png|Example of the topography of Sylmare]]*
+*The black circle indicates the area that has been carved out by the explosion. In this example the highest point on the left side of the stump faces west out to the ocean. The red star indicates where the party's home base is.*
 # [[Festival of the Moon]] Key Points 
 
 - [[Horatio Wobblesprocket III]] warns the party that a group baring the same sigil as the one found on the [[Unknown Letter]] were reported around town trying to purchase alchemical components that are common for use in fireworks and explosives.
@@ -92,7 +103,7 @@ When the party goes outside talk about the city streets architecture and the bus
 - The party returns home after the eclipse
 - [[Emelden Tanithil]] eventually meets the party at their home. He is a sloppy half elf who appears to be middle aged. He has a bit of a beer belly and his cloths are a little stained. He asks if it is okay to have a smoke. He pulls out a pipe a snuffbox of pipeweed. He packs the pipe, but instead of lighting the pipeweed he takes a toke on the pipe. This causes runes from the [[Kut'al Conclave]] to begin to glow on the outside of the bowl and the consequently the pipeweed begins to burn. Then he tells them that some plans fell through and a shipment cart that was supposed to make it out of the city before the parade have not left yet, and the crew is no where to be found. He asks that they bring it up the main thoroughfare to a way point so that it can be picked up later as soon as the streets clear out. He tells them about an alley that they can store the cart relatively safely. When he is leaving he also recommends a spot they can go to from the alley for a good view of the parade
 - When the party arrives at the [[Clan Tanithil]] warehouse they are suspicious of the contents of the cart, but decide to wait to get away warehouse before checking it out.
-- On there way to the drop off point they are stopped by a band of cutpurses, made up of eight gruff looking bandits. The party is able to take down all of the bandits.
+- On there way to the drop off point they are stopped by a band of cutpurses, made up of eight gruff looking bandits. The party is able to take down all of the bandits. [[Session1Battlemap.png|Battlemap]]
 - The party investigates the wagon for anything suspicious. [[John-Boy Blackthorne]] is able to cut the ropes tying the cover of the wagon. He finds that the wagon is full of wood crates. He begins to pray them open only to find random supplies, like cookware, paper, ink, bolts, armor, etc. Finding nothing out of the ordinary he decides to seal up the wagon to make it look like it was never opened.
 - The party is able to make it to the drop off point with only a few minutes to spare. They decide to go to the spot that [[Emelden Tanithil]] has recommended.
 - While the parade passes by the alleyway [[Miera Ashglade]] is able to spot a soft glow appearing around the wagon as it explodes disorienting the whole party. [[Miera Ashglade]] was able to catch a glimpse of some sort of magic go up around the parade right before the explosion hits.

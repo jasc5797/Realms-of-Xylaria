@@ -31,7 +31,7 @@ John-boy Blackthorn was born the son of a tavern maid and an unknown father. As 
 
 ## Arrival in [[Sylmare]]
 
-
+Nobody except [[John-Boy Blackthorne]] himself know his exact reasons for entering [[Sylmare]]. A few months back he entered the city with a low profile. He has been slowly acclimating to life in the city. He did not attempt to lay down roots in the city, instead preferring to find odd jobs and moving from tavern to tavern over the weeks. ^arrival-in-sylmare
 ## Meeting [[Edwin Ravenswood]], [[Gnutz Snatcher]], and [[Miera Ashglade]]
 
 ![[Edwin Ravenswood#^meeting-gnutz-snatcher-and-john-boy-blackthorne]]

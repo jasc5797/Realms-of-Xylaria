@@ -21,7 +21,7 @@ Some sort of chase scene throughout the city. Let the party go their own course 
     - **Deception/Performance:** To throw off the guards with distractions or disguises.
     - **Perception/Insight:** To spot patrols or figure out the guards’ search patterns.
 - Success gives them more time to plan, while failures mean more guards are closing in.
-- See [[Festival of the Moon Escape Options]] for more in depth scenarios and mechanics
+- See [[2.1 Festival of the Moon Escape Options]] for more in depth scenarios and mechanics
 
 ### Alternative Options for the Party
 
@@ -50,7 +50,7 @@ Once captured, the party is brought in for questioning. [[Isvar Zunil]] could in
 
 Maybe they are initially interrogated separately at first, but eventually they will be brought into a single room for a zone of truth. This is where [[Isvar Zunil]] would come in.
 
-See [[Isvar's Interrogation]] for more information and dialogue.
+See [[2.2 Isvar's Interrogation]] for more information and dialogue.
 
 ### Magical Artifacts for Hunting the Party
 
@@ -139,7 +139,7 @@ Isvar Zunil would likely use both psychological pressure and magical methods to 
 
 [[Isvar Zunil]] talks about how sad it is that the party's newly acquired house and their employment have meet such an explosive end. He does however have an offer that may pique their interests. He says that the royal family is willing to hire them on, considering they are now free agents and all, to loyal serve as a group to perform special interests where the [[Trisfir Kingdom]] can normal reach. In exchange the party's connection with the bombing won't be spread through the news tomorrow. To sweeten the deal he says they can keep their current lodgings and will have an increased payment scheme. He asks the party to infiltrate on of [[Clan Tanithil]]'s warehouses that the party is already familiar with in order to find more information on the [[Shadow Group]] 
 
-See [[Getting acquainted with Isvar]] for more information on next steps for the party.
+See [[2.3 Getting acquainted with Isvar]] for more information on next steps for the party.
 
 ## Warehouse
 
@@ -147,7 +147,7 @@ See [[Getting acquainted with Isvar]] for more information on next steps for the
 Plan for infiltration of a [[Clan Tanithil]] warehouse. [Battle Map](https://www.reddit.com/r/dndmaps/comments/rv70f1/warehouse_31x18/)
 The party has been to this warehouse before so knows its layout
 
-See [[Infiltrating Clan Tanithil's Warehouse]] for more information.
+See [[2.4 Infiltrating Clan Tanithil's Warehouse]] for more information.
 ### **1. Preparation and Reconnaissance**
 
 **Objective**: Gather information about the warehouse and its security.
@@ -210,4 +210,5 @@ Some hint or clue should be found during the warehouse infiltration, that detail
 
 
 - [[Follow Up with Isvar]]
-- [[End of Session 2]]
+- [[Possible Short Term Missions from Isvar]]
+- [[3 Downtime]]

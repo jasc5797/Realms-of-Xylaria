@@ -3,6 +3,9 @@ tags:
   - magic-item
 date: 2024-08-31
 ---
+![[TrademastersRing.png]]
+
+*[[TrademastersRing.png|Trademaster's Ring]]*
 # Attributes
 
 Ring, Uncommon (requires attunement by a Trademaster's Ring)
