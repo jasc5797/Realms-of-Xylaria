@@ -2,7 +2,6 @@
 tags:
   - session
 date: 2024-11-10
-draft: "true"
 ---
 # [[Session 3]] Recap
 
