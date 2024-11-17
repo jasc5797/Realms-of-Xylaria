@@ -4,6 +4,9 @@ tags:
 date: 2024-09-01
 draft: "true"
 ---
+The rear half of the building is occupied by *Runes of the Forge*, Chak-tha’s shop. Despite their differences, Horatio and Chak-tha collaborate when needed, combining their skills to create even more powerful magical items. Boltz, to Horatio’s dismay, gets along quite well with Chak-tha and often spends time tending to the flora around *Runes of the Forge*.
+
+Despite his disdain for Chak-tha's mild demeanor and the fact that many of his jokes go over the Thri-kreen's head, Horatio respects him and their collaboration.
 
 # Description
 

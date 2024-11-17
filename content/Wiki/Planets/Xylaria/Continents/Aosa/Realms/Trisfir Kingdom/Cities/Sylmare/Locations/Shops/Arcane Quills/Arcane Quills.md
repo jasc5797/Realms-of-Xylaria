@@ -2,7 +2,6 @@
 tags:
   - shop
 date: 2024-09-01
-draft: "true"
 ---
 ## [[Arcane Quills]]
 
@@ -11,7 +10,8 @@ draft: "true"
 **Location:** Merchant District, [[Sylmare]]
 
 **Description:**  
-[[Arcane Quills]] is an elegant, two-story shop specializing in spellbooks, scrolls, and arcane supplies. The exterior is refined, with intricate stonework and arcane symbols subtly carved into the walls. Inside, the shop is organized with meticulous precision. Shelves filled with scrolls and tomes line the walls, while cases of rare inks, quills, and parchment sit prominently in the center. A subtle, magical hum fills the air, making the space feel charged with potential energy.
+
+[[Arcane Quills]] is an elegant, two-story shop specializing in spellbooks, scrolls, and arcane supplies. The exterior is refined, with intricate stonework and arcane symbols subtly carved into the walls. Inside, the shop is organized with meticulous precision. Shelves filled with scrolls and tomes line the walls, while cases of rare inks, quills, and parchment sit prominently in the center. A subtle, magical hum fills the air, making the space feel charged with potential energy. ^description
 
 **Owner:**  
 [[Caladrel Thalor]] is an old but spry Elvish Wizard with centuries of arcane knowledge. His deep, scholarly voice and piercing eyes convey both wisdom and a hint of arrogance. He is always ready to discuss the finer points of magical theory, and he takes pride in the quality of the goods he offers. [[Caladrel Thalor]] has a passion for collecting rare spells and is willing to negotiate for any scroll or tome that piques his interest.
@@ -58,8 +58,8 @@ draft: "true"
     - _Rarity:_ Common
     - _Price:_ 50 gp
     - _Description:_ Parchment treated with special herbs and oils to prevent aging and damage.
-- **Scroll of Identify (1st-level spell)**
+- **Scroll of Ray of Frost (1st-level spell)**
     
     - _Rarity:_ Common
     - _Price:_ 100 gp
-    - _Description:_ A scroll containing the spell Identify, useful for discerning the properties of a magical item.
+	- A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.

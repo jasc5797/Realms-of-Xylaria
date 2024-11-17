@@ -2,7 +2,6 @@
 tags:
   - shop
 date: 2024-09-01
-draft: "true"
 ---
 
 # Wobblesprocket's Wonders
@@ -12,12 +11,12 @@ draft: "true"
 **Description:**  
 Wobblesprocket's Wonders is an elongated two-story stone building nestled within the bustling merchant district of Sylmare. The shop's facade is a vibrant tapestry of blooming flowers, with flower boxes crammed into every available space, from the ground out front to the windows, where they hang precariously. The floral display is lovingly maintained by Boltz, an Autognome with a literal and metaphorical green thumb.
 
-The rear half of the building is occupied by *Runes of the Forge*, Chak-tha’s shop. Despite their differences, Horatio and Chak-tha collaborate when needed, combining their skills to create even more powerful magical items. Boltz, to Horatio’s dismay, gets along quite well with Chak-tha and often spends time tending to the flora around *Runes of the Forge*.
+
 
 ## Shopkeeper
 
 **Horatio Wobblesprocket III:**  
-An energetic and eccentric Tinker Gnome, Horatio is the mastermind behind the unique and steampunk-esque magical items found in his shop. He’s known for his rapid-fire speech, boundless enthusiasm, and a tendency to ramble about his creations. Despite his disdain for Chak-tha's mild demeanor and the fact that many of his jokes go over the Thri-kreen's head, Horatio respects him and their collaboration.
+An energetic and eccentric Tinker Gnome, Horatio is the mastermind behind the unique and steampunk-esque magical items found in his shop. He’s known for his rapid-fire speech, boundless enthusiasm, and a tendency to ramble about his creations. 
 
 **Boltz:**  
 Horatio’s Autognome assistant, Boltz, was originally designed to help with the shop’s operations. However, Boltz’s love for gardening often takes precedence, much to Horatio’s frustration. Boltz’s green thumb is a source of pride, and the Autognome spends more time tending to the flowers around the shop than assisting with Horatio’s projects.

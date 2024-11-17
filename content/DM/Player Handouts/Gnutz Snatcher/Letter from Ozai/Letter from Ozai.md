@@ -5,7 +5,7 @@
 
 # Description
 
-This letter was found on [[Gnutz Snatcher]]'s bed in the parties homebase after returning from interrogating [[Emelden Tanithil]] at the warehouse. The letter bares Ozai''s sigil, a burst of flame, pressed into the wax seal. Upon opening a small gout of flame appears to emanate from the letter, however this effect is illusory in nature. The letter contains a message from [[Ozai]] to [[Gnutz Snatcher]].
+This letter was found on [[Gnutz Snatcher]]'s bed in the party's homebase after returning from infiltrating [[Zukar Tanithil]]'s mansion. The letter bares Ozai''s sigil, a burst of flame, pressed into the wax seal. Upon opening a small gout of flame appears to emanate from the letter, however this effect is illusory in nature. The letter contains a message from [[Ozai]] to [[Gnutz Snatcher]].
 
 ## Contents
 

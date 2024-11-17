@@ -2,6 +2,16 @@
 date: 2024-10-05
 ---
 
+# Release 3
+*Sessions 3 & 4 Notes*
+- [[Sessions/|Sessions]]
+	- [[Session 3]] - *Created*
+	- [[Session 4]] - *Created*
+- [[Wiki]]
+	- [[Wiki/Magic Items/|Magic Items]]
+		- [[Isvar's Amulet of Magnificent Mansion]] - *Created*
+		- [[Zukar's Ledger of Shadows]] - *Created*
+		- [[Grimshackle]] - *Updated Weapon type to Knuckles*
 # Release 2
 *Session 2 Notes*
 - [[Sessions/|Sessions]]
